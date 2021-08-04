@@ -1,0 +1,28 @@
+13
+J S
+T S
+A D
+3 C
+5 H
+8 H
+2 C
+K H
+7 S
+3 S
+T C
+2 S
+2 D
+
+3 C
+3 S
+5 H
+7 S
+8 H
+T C
+T S
+J S
+K H
+A D
+2 C
+2 D
+2 S
